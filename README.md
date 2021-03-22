@@ -2,7 +2,7 @@
 
 
 - 🔭 I just graduated from Tech Elevator
-- 🌱 I’m currently learning Java, Vue.js, JavaScript, HTML, PostgreSql
+- 🌱 I’m currently learning Angular and working on a wellness application
 - 👯 I’m looking to collaborate on Vue.js
 - 🤔 I’m looking for help with JavaScript
 - 💬 Ask me about databases
